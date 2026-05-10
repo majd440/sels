@@ -1,0 +1,10 @@
+{
+  "name": "Local Sales Manager",
+  "description": "Offline-First Sales Management System for Local Shops with Arabic and English support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
